@@ -1,3 +1,4 @@
 [submodule "shared_lib"]
 	path = shared_lib
 	url = https://github.com/danielatscale/shared_lib
+	branch = main
